@@ -1,4 +1,4 @@
-# 🏢 Enterprise HR RAG Assistant
+# 🏢 AI Research & Rag Integrtaion Intern
 
 An AI-powered Enterprise HR Assistant that allows authenticated users to
 ask questions about HR policy documents through a conversational
